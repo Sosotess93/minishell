@@ -12,3 +12,13 @@ Launch as normal mode with ./42sh
 Exit shell pressing ^D
 The code respects Epitech-Norm and contains no memory leak and no error.
 Notice : contains the following built-ins echo cd env setenv unsetenv (look @src/built-in)
+
+## Credits
+Sofiane Charrad (https://github.com/Sosotess93)  
+ 
+## Contact
+  sofianecharrad@hotmail.fr
+
+## License
+
+Copyright (c) 2016-2018 Sofiane Charrad
